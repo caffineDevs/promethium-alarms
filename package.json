@@ -1,5 +1,6 @@
 {
   "name": "promethium",
+  "homepage": "http://caffinedevs.github.io/promethium-alarms",
   "version": "0.1.0",
   "private": true,
   "main": "main.js",
@@ -27,7 +28,9 @@
     "build": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject",
-    "electron": "electron ."
+    "electron": "electron .",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
