@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/promethium-alarms/static/css/main.eee0314c.chunk.css",
+    "main.js": "/promethium-alarms/static/js/main.1b3d9636.chunk.js",
+    "main.js.map": "/promethium-alarms/static/js/main.1b3d9636.chunk.js.map",
+    "runtime-main.js": "/promethium-alarms/static/js/runtime-main.0cee342d.js",
+    "runtime-main.js.map": "/promethium-alarms/static/js/runtime-main.0cee342d.js.map",
+    "static/js/2.9908a64b.chunk.js": "/promethium-alarms/static/js/2.9908a64b.chunk.js",
+    "static/js/2.9908a64b.chunk.js.map": "/promethium-alarms/static/js/2.9908a64b.chunk.js.map",
+    "static/js/3.8f8f15dc.chunk.js": "/promethium-alarms/static/js/3.8f8f15dc.chunk.js",
+    "static/js/3.8f8f15dc.chunk.js.map": "/promethium-alarms/static/js/3.8f8f15dc.chunk.js.map",
+    "index.html": "/promethium-alarms/index.html",
+    "static/css/main.eee0314c.chunk.css.map": "/promethium-alarms/static/css/main.eee0314c.chunk.css.map",
+    "static/js/2.9908a64b.chunk.js.LICENSE.txt": "/promethium-alarms/static/js/2.9908a64b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cee342d.js",
+    "static/js/2.9908a64b.chunk.js",
+    "static/css/main.eee0314c.chunk.css",
+    "static/js/main.1b3d9636.chunk.js"
+  ]
+}
